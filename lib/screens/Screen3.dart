@@ -8,8 +8,6 @@ import 'package:url_launcher/url_launcher.dart';
 class Screen3 extends StatelessWidget {
   const Screen3({Key? key}) : super(key: key);
 
-
-
   @override
   Widget build(BuildContext context) {
 
@@ -19,11 +17,6 @@ class Screen3 extends StatelessWidget {
           future: fetchPost(),
           builder: (context, snapshot) {
 
-            if(snapshot.hasError)
-              {
-                print(snapshot.error.toString());
-                return Text("hello");
-              }
             if ( snapshot.connectionState==ConnectionState.done && snapshot.hasData) {
               return ListView.builder(
                 itemCount: snapshot.data!.entries!.length,
