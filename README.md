@@ -1,16 +1,12 @@
 # task2
 
-"A new Flutter project."
+![image](https://github.com/DeepanshuSemwal/Task/assets/92510571/a0cd9486-5be6-4d9e-9d81-00626d356f4b)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/DeepanshuSemwal/Task/assets/92510571/d633ecd5-68be-4a9a-8079-3b3d30b29913)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/DeepanshuSemwal/Task/assets/92510571/91bd3e5b-ed7b-4cef-a200-6643a1479837)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
